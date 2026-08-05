@@ -52,7 +52,6 @@ def generate_html(entries, updated_at):
     cards = ""
     for e in entries:
         body_text = e["detail"] if e["detail"] else e["summary"]
-        body_text = body_text[:300] + ("…" if len(body_text) > 300 else "")
         tags_html = "".join(
             f'<span class="tag">{t}</span>' for t in e.get("tags", [])
         )
