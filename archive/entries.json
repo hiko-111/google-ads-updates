@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "2026-07-15-001",
+    "date": "2026-07-15",
+    "source_type": "upload",
+    "source_label": "Google 莉莉丝7.15周会",
+    "category": "产品功能",
+    "title": "HEF 高互动广告格式重大更新（Admob Only）",
+    "summary": "HEF 开启后自动启用 V+P 组合、时长优化等3项功能；Clickable Video 和双内嵌安装需找 AM 申请开白",
+    "detail": "HEF（High-engagement ads）是 Google Ads 账户级开关（Account Settings → High-engagement ads → On），开启后为 Admob 广告系列自动启用3项功能：① V+P 组合——视频+试玩在同一插页/激励广告位联合投放；② 广告时长提升——插页支持10s/12s，激励视频最长60s；③ 倒计时器换为进度条 UI。另有2项需联系 AM 申请开白：Clickable Video（扩大视频可点击区域至几乎全屏，仅限 Admob）；双内嵌安装 / Double Alleyoop on Podded Video（连播视频每条结束后各弹一次内嵌 Play Store 安装界面，仅限 Android + Admob）。",
+    "link": "",
+    "tags": ["HEF", "High-engagement ads", "Admob", "Clickable Video", "Podded Video", "V+P", "插页广告", "激励广告"],
+    "images": [
+      "archive/images/hef-2026-07-15/01-overview.png",
+      "archive/images/hef-2026-07-15/02-where-to-check.png",
+      "archive/images/hef-2026-07-15/03-double-alleyoop.png",
+      "archive/images/hef-2026-07-15/04-clickable-video.png"
+    ]
+  }
+]
