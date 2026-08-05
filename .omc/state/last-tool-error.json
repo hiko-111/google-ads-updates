@@ -1,0 +1,7 @@
+{
+  "tool_name": "PowerShell",
+  "tool_input_preview": "{\"command\":\"cd \\\"C:\\\\Users\\\\zhongyanchan\\\\google-ads-updates\\\"; python -c \\\"import json; d=json.load(open('updates.json',encoding='utf-8')); print('updated_at:', d['updated_at']); [print(f\\\\\\\"{e['publ...",
+  "error": "Exit code 1\nAt line:1 char:196\r\n+ ... updated_at']); [print(f\\\"{e['published_str']} | {e['source']} | {e['t ...\r\n+                                                     ~~~~~~~~~~~~~\r\nExpressions are only allowed as the first element of a pipeline.\r\nAt line:1 char:212\r\n+ ... t(f\\\"{e['published_str']} | {e['source']} | {e['title'][:60]}\\\") for  ...\r\n+                                                 ~~~~~~~~~~~~~~~~~\r\nExpressions are only allowed as the first element of a pipeline.\r\nAt line:1 char:2...",
+  "timestamp": "2026-08-05T06:38:51.387Z",
+  "retry_count": 1
+}
